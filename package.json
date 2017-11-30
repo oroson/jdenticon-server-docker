@@ -1,10 +1,10 @@
 {
   "name": "oroson_identicon",
   "version": "1.0.0",
-  "author": "richard@orson.co.uk",
+  "author": "Richard Davidson",
   "main": "server.js",
   "scripts": {
-    "start": "node identicon-server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "fs": "0.0.1-security",
