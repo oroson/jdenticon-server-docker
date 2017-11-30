@@ -1,0 +1,14 @@
+{
+  "name": "oroson_identicon",
+  "version": "1.0.0",
+  "author": "richard@orson.co.uk",
+  "main": "server.js",
+  "scripts": {
+    "start": "node identicon-server.js"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "jdenticon": "^1.7.2"
+  }
+}
